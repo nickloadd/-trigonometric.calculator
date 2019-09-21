@@ -1,0 +1,81 @@
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\михаил\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Михаил\Desktop\курсовая\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\Курсовая\Курсовая_работа_программа\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Курсовая\Курсовая_работа_программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Курсовая\Курсовая_работа_программа\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\User\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Михаил\Desktop\2\Миша\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Михаил\Desktop\2\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Михаил\Desktop\2\Миша\3\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Курсова_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Курсовая_Итог\Исходники\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Курсовая_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Курсовая_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+X:\флешка\Курсовая_Итог\Исходники\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+X:\флешка\Курсовая_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+X:\флешка\Курсовая_Итог\Исходники\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
